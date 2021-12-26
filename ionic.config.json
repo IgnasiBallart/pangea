@@ -1,0 +1,7 @@
+{
+  "name": "pangea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
